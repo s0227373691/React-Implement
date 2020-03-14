@@ -1,0 +1,26 @@
+{
+  "window.zoomLevel": 1,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/dist/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "extensions.ignoreRecommendations": true,
+  "explorer.confirmDelete": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "terminal.integrated.rendererType": "dom",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true
+}
